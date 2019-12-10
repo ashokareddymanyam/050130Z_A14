@@ -2,7 +2,7 @@ Notes-Types { Esterel-Technologies }  DEFINITIONS ::=
 BEGIN
     CARTOU_BACT ::= SEQUENCE OF { SEQUENCE {
     annot_object OID,
-    name STRING,
+    name STRING,436546575i9870890-90-9-9=-0
         note_graphical_information {
             NT_INCRUSTABLE BOOLEAN
             {sfcdsfsdfsdfsdfsdfgvdfvfdvfdvgfdvbgdbgtfgtv
