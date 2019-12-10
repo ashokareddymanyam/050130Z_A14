@@ -5,7 +5,7 @@ BEGIN
     name STRING,
         note_graphical_information {
             NT_INCRUSTABLE BOOLEAN
-            {
+            {sfcdsfsdfsdfsdfsdfgvdfvfdvfdvgfdvbgdbgtfgtv
             	 NT_DISPLAYABLE F ,
             	 NT_DEFAULT_VALUE F },
             NT_PERMANENT BOOLEAN
